@@ -20,8 +20,6 @@ We use \*\*machine learning models\*\* to find the best approach for accurate pr
 
 \- Train set: 1460 rows × 81 columns  
 
-\- Test set: 1459 rows × 80 columns  
-
 \- Target variable: `SalePrice`
 
 
@@ -119,6 +117,7 @@ We use \*\*machine learning models\*\* to find the best approach for accurate pr
 
 
 ---
+
 
 
 
